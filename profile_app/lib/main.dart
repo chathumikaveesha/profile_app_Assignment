@@ -27,7 +27,7 @@ class ProfileScreen extends StatelessWidget {
 
   // Sample profile data — swap this out for real data (e.g. from a
   // database, shared preferences, or an API call) as needed.
-  final String name = 'Kveesha';
+  final String name = 'Kaveesha';
   final String email = 'jkvckaveesha@nsbm.students.ac.lk';
   final int points = 0;
 
